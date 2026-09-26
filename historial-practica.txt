@@ -1,0 +1,5 @@
+1. Se creo el repositorio en git hub.
+2. Se abre el bash para la creacion de los archivos.
+3. Se abre VSC para modifcar esos archivos.
+4. Se usa la URL  del repositorio para enlazar el bash con git hub.
+5. Usamos un branch, un commit y un push para subir todo nuestro trabajo al repositorio.

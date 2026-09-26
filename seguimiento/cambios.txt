@@ -1,0 +1,6 @@
+Primero se uso el git hub para crear el repositorio.
+segundo usamos el bash para crear los archivos necesarios.
+tercero usamos VSC para modificar los archivos.
+cuarto usamos la URL y comandos del bash para enlazar el repositoriocon nuestro trabajo local.
+quinto preparamos los archivos para ser subidos con git status, git add y guit commit.
+usamos el comando git push -u origin main para que nuestro trabajo este en nuestro repositorio y se guarde la primera version.

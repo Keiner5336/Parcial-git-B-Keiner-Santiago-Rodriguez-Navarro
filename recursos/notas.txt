@@ -1,0 +1,10 @@
+1. ls 
+2. git init
+3. git status
+4. cd 
+5. git config --global --list
+6. pwd
+7. code .
+8. git commit -m 
+9. git push -u origin main 
+10. add .

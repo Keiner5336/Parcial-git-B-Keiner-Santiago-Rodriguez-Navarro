@@ -1,0 +1,5 @@
+Git y git hub son herramientas que nos ayudan a llevar un control de versiones, 
+mientras en el git(que es una terminal para interprete de comandos) creamos todos los archivos que necesitamos de forma local para posteriormente
+modificarlos a nuestra conveniencia, en el git hub es donde iran almacenadas todas esas versiones de 
+los archivos trabajados.
+El commit es un comando del bash el cual es el que nos crea la version de lo que modificamos en todos los archivos y le da un nombre que nosotros le colocamos.
